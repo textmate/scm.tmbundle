@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>ohaqyrf@grkgzngr.bet</string>
+	<key>contactName</key>
+	<string>Michael Sheets</string>
+	<key>description</key>
+	<string>Provides support for the various SCM (source control management) bundles.</string>
+	<key>name</key>
+	<string>SCM</string>
+	<key>uuid</key>
+	<string>3BDF79F4-94AE-46C0-BFBF-D5572AD2F515</string>
+</dict>
+</plist>
